@@ -1,3 +1,3 @@
-# CS1021 Lab 4
+# CS1021 Homework 4
 
-[link to assignment](https://csse.msoe.us/cs1021/lab4)
+See prompt for details
